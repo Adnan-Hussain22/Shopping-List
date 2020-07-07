@@ -12,7 +12,7 @@
     "package-linux" : "electron-packager . --overwrite --platform=linux --arch=x64 --icon=assets/icons/png/icon.png --prune=true --out=release-builds"
 	},
 	"devDependencies": {
-    "electron": "^5.0.6",
+    "electron": "^9.1.0",
     "electron-packager": "^14.0.1"
 	}
 }
